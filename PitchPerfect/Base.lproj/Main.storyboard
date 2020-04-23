@@ -40,12 +40,12 @@
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
-                            <constraint firstItem="7wG-vc-vEs" firstAttribute="top" secondItem="Kza-Ma-Vbx" secondAttribute="bottom" constant="25" id="3Yy-vy-afn"/>
-                            <constraint firstItem="7wG-vc-vEs" firstAttribute="centerX" secondItem="Kza-Ma-Vbx" secondAttribute="centerX" id="9Vn-Ba-q2P"/>
-                            <constraint firstItem="lhK-p8-FO7" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="JSh-rG-M3l"/>
-                            <constraint firstItem="lhK-p8-FO7" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Pz8-IE-i3c"/>
-                            <constraint firstItem="Kza-Ma-Vbx" firstAttribute="centerX" secondItem="lhK-p8-FO7" secondAttribute="centerX" id="ZGb-ex-6rc"/>
-                            <constraint firstItem="Kza-Ma-Vbx" firstAttribute="top" secondItem="lhK-p8-FO7" secondAttribute="bottom" constant="25" id="m5C-Nc-1Jx"/>
+                            <constraint firstItem="lhK-p8-FO7" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="2nX-Dx-L0z"/>
+                            <constraint firstItem="lhK-p8-FO7" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="6LX-KD-1Jl"/>
+                            <constraint firstItem="Kza-Ma-Vbx" firstAttribute="top" secondItem="lhK-p8-FO7" secondAttribute="bottom" constant="25" id="6Uc-dz-aQD"/>
+                            <constraint firstItem="Kza-Ma-Vbx" firstAttribute="centerX" secondItem="lhK-p8-FO7" secondAttribute="centerX" id="lVZ-zf-TVl"/>
+                            <constraint firstItem="7wG-vc-vEs" firstAttribute="centerX" secondItem="Kza-Ma-Vbx" secondAttribute="centerX" id="uYr-4E-QU5"/>
+                            <constraint firstItem="7wG-vc-vEs" firstAttribute="top" secondItem="Kza-Ma-Vbx" secondAttribute="bottom" constant="25" id="w1G-3a-a8E"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
