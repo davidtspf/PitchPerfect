@@ -42,9 +42,9 @@
                         <constraints>
                             <constraint firstItem="lhK-p8-FO7" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="2nX-Dx-L0z"/>
                             <constraint firstItem="lhK-p8-FO7" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="6LX-KD-1Jl"/>
-                            <constraint firstItem="Kza-Ma-Vbx" firstAttribute="centerX" secondItem="7wG-vc-vEs" secondAttribute="centerX" id="8FU-7D-xoH"/>
-                            <constraint firstItem="Kza-Ma-Vbx" firstAttribute="top" secondItem="lhK-p8-FO7" secondAttribute="bottom" constant="20" id="JWW-Ux-XDD"/>
-                            <constraint firstItem="Kza-Ma-Vbx" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="154.5" id="i7t-TK-2En"/>
+                            <constraint firstItem="Kza-Ma-Vbx" firstAttribute="centerX" secondItem="7wG-vc-vEs" secondAttribute="centerX" id="BNE-0i-JpP"/>
+                            <constraint firstItem="Kza-Ma-Vbx" firstAttribute="top" secondItem="lhK-p8-FO7" secondAttribute="bottom" constant="20" id="H2p-A7-KcH"/>
+                            <constraint firstItem="Kza-Ma-Vbx" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="154.5" id="bJQ-5i-JnQ"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
